@@ -1,0 +1,1 @@
+Là việc tách các services để dễ control và 1 số công cụ để giúp hoàn thành như là api gateway, k8s và các DESIGN PATTERNS
