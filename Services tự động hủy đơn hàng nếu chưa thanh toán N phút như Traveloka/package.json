@@ -1,0 +1,16 @@
+{
+  "name": "handle",
+  "version": "1.0.0",
+  "description": "+ Dùng mô hình pub-sub trong resid để sử lí\r + Mô tả khi nhận được req (ví dụ như là đơn đặt hàng), cache id đơn hàng vào redis từ redis dùng mô hình pub-sub và với delay time là 5s viết 1 hàm nhận msg sau 5s thì lúc này sẽ sử lí msg:\r + Có nhiều cách xử lí:\r + khi gửi có req ta có thể indexing vào db sau time delay ta có thể update lại\r + sau time delay ta đưa vào mesqueue rồi xử ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^3.1.0",
+    "save": "^2.9.0"
+  }
+}
