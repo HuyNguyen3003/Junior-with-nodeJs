@@ -1,3 +1,3 @@
 # Junior-with-nodeJs
 
-Handle các bài toán khi rảnh
+Learn and Handle các bài toán khi rảnh
