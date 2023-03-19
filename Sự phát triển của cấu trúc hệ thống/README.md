@@ -9,3 +9,4 @@
 + Mở rộng hệ thống theo chiều ngang hay chiều dọc ở từng bộ phận
 + Thiết kế hệ thống phân tán có qui mô lớn :V
 
+![image](https://user-images.githubusercontent.com/94001149/226154072-907e2114-c20b-4576-a14d-8fa4ae8acb5e.png)
