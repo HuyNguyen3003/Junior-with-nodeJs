@@ -1,2 +1,0 @@
-Là việc tách các services và 1 số công cụ để giúp hoàn thành như là api gateway, k8s và các DESIGN PATTERNS
-+ Lợi ích: để dễ control và không phụ thuộc vào công nghệ
