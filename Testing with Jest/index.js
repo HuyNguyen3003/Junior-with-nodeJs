@@ -10,8 +10,22 @@ const multiply = (a, b) => {
     return a * b;
 };
 
+
+// async
+const axios = require('axios')
+
+const fetchData = async (Id) => {
+
+    const response = await axios.get(`https://jsonplaceholder.typicode.com/todos/${Id}`);
+    return (response.data);
+
+}
+
+
+
 module.exports = {
     sum,
     subtract,
-    multiply
+    multiply,
+    fetchData
 };
